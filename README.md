@@ -21,8 +21,7 @@ $ rails s
 ---
 
 ### ToDo
--[x] Rails Setup
--[ ] Date Bases Setup
--[ ] Page Layout
--[ ] First Page
- 
+- [x] Rails Setup
+- [ ] Date Bases Setup
+- [ ] Page Layout
+- [ ] First Page
